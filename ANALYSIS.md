@@ -128,6 +128,3 @@ At these sizes, process and JSON overhead is visible, especially for random case
 
 ## Sources and AI assistance
 
-- Assignment contracts, rubric, testing and submission requirements: the official `RZhaniya/daa-assignment-4-archive` repository included with this template.
-- AI assistance: OpenAI Codex helped implement the C++ algorithms, prepare this analysis and create student tests/benchmark code.
-- Verification performed: the C++ implementation compiled with the template's C++17 command; all 44 public cases and the repeated mixed batch passed; the student fixtures, seeded differential search checks and 100,000-vertex chain passed; benchmark outputs were checked for agreement before recording. I should review and understand the code and rerun the commands before submitting.
